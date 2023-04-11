@@ -1,0 +1,2378 @@
+[
+    {
+        "patch_name": "7_23",
+        "img_name": "7815_23931_128_128.jpg",
+        "rect": [
+            647,
+            379,
+            128,
+            128
+        ],
+        "true_rect": [
+            655,
+            396,
+            113,
+            95
+        ],
+        "location": [
+            7815,
+            23931,
+            128,
+            128
+        ],
+        "true_location": [
+            7823,
+            23948,
+            113,
+            95
+        ],
+        "detection_confidence": 0.8483448028564453,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.99658203125,
+            0.0016717910766601562
+        ],
+        "iod": 13.53279963941735,
+        "nucleu_area": 327.0,
+        "nucleoplasmic_ratio": 0.22105263157894736,
+        "color_classify_label": -3,
+        "nuclear_clarity": 142.62951426899767,
+        "dyeing": 0.04138470837742309,
+        "circular_degree": 0.8688908583572533
+    },
+    {
+        "patch_name": "5_22",
+        "img_name": "5185_23009_128_128.jpg",
+        "rect": [
+            65,
+            481,
+            128,
+            128
+        ],
+        "true_rect": [
+            74,
+            500,
+            110,
+            90
+        ],
+        "location": [
+            5185,
+            23009,
+            128,
+            128
+        ],
+        "true_location": [
+            5194,
+            23028,
+            110,
+            90
+        ],
+        "detection_confidence": 0.82177734375,
+        "classes": [
+            0,
+            2
+        ],
+        "classification_confidence": [
+            0.857421875,
+            0.1416015625
+        ],
+        "iod": 90.3268981109448,
+        "nucleu_area": 374.5,
+        "nucleoplasmic_ratio": 0.23333333333333334,
+        "color_classify_label": -3,
+        "nuclear_clarity": 230.2153582695643,
+        "dyeing": 0.24119331938837063,
+        "circular_degree": 0.8946709198876367
+    },
+    {
+        "patch_name": "3_10",
+        "img_name": "3839_10913_128_128.jpg",
+        "rect": [
+            767,
+            673,
+            128,
+            128
+        ],
+        "true_rect": [
+            782,
+            684,
+            98,
+            106
+        ],
+        "location": [
+            3839,
+            10913,
+            128,
+            128
+        ],
+        "true_location": [
+            3854,
+            10924,
+            98,
+            106
+        ],
+        "detection_confidence": 0.92138671875,
+        "classes": [
+            2,
+            4
+        ],
+        "classification_confidence": [
+            0.99267578125,
+            0.00733184814453125
+        ],
+        "iod": 240.3306196342399,
+        "nucleu_area": 807.0,
+        "nucleoplasmic_ratio": 0.3469387755102041,
+        "color_classify_label": -3,
+        "nuclear_clarity": 99.27339274649566,
+        "dyeing": 0.29780745927415103,
+        "circular_degree": 0.8815554950281603
+    },
+    {
+        "patch_name": "2_14",
+        "img_name": "2904_15215_128_128.jpg",
+        "rect": [
+            856,
+            879,
+            128,
+            128
+        ],
+        "true_rect": [
+            860,
+            907,
+            120,
+            72
+        ],
+        "location": [
+            2904,
+            15215,
+            128,
+            128
+        ],
+        "true_location": [
+            2908,
+            15243,
+            120,
+            72
+        ],
+        "detection_confidence": 0.81884765625,
+        "classes": [
+            2,
+            3
+        ],
+        "classification_confidence": [
+            0.9755859375,
+            0.02313232421875
+        ],
+        "iod": -11.81248556123855,
+        "nucleu_area": 342.0,
+        "nucleoplasmic_ratio": 0.2916666666666667,
+        "color_classify_label": -3,
+        "nuclear_clarity": 87.90901727537721,
+        "dyeing": -0.034539431465609796,
+        "circular_degree": 0.8785586222860025
+    },
+    {
+        "patch_name": "12_21",
+        "img_name": "12625_22369_128_128.jpg",
+        "rect": [
+            337,
+            865,
+            128,
+            128
+        ],
+        "true_rect": [
+            353,
+            869,
+            96,
+            120
+        ],
+        "location": [
+            12625,
+            22369,
+            128,
+            128
+        ],
+        "true_location": [
+            12641,
+            22373,
+            96,
+            120
+        ],
+        "detection_confidence": 0.8837890625,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.99951171875,
+            0.0004239082336425781
+        ],
+        "iod": 60.30880375303875,
+        "nucleu_area": 351.0,
+        "nucleoplasmic_ratio": 0.22916666666666666,
+        "color_classify_label": -3,
+        "nuclear_clarity": 154.69087799449025,
+        "dyeing": 0.1718199537123611,
+        "circular_degree": 0.8722132428349406
+    },
+    {
+        "patch_name": "17_19",
+        "img_name": "18227_20072_128_128.jpg",
+        "rect": [
+            819,
+            616,
+            128,
+            128
+        ],
+        "true_rect": [
+            814,
+            627,
+            138,
+            107
+        ],
+        "location": [
+            18227,
+            20072,
+            128,
+            128
+        ],
+        "true_location": [
+            18222,
+            20083,
+            138,
+            107
+        ],
+        "detection_confidence": 0.89306640625,
+        "classes": [
+            0,
+            2
+        ],
+        "classification_confidence": [
+            0.85009765625,
+            0.0799560546875
+        ],
+        "iod": 191.06541075002136,
+        "nucleu_area": 727.0,
+        "nucleoplasmic_ratio": 0.2616822429906542,
+        "color_classify_label": -3,
+        "nuclear_clarity": 99.25341273571999,
+        "dyeing": 0.2628134948418451,
+        "circular_degree": 0.8766681185785637
+    },
+    {
+        "patch_name": "10_12",
+        "img_name": "10425_12656_128_128.jpg",
+        "rect": [
+            185,
+            368,
+            128,
+            128
+        ],
+        "true_rect": [
+            178,
+            346,
+            143,
+            173
+        ],
+        "location": [
+            10425,
+            12656,
+            128,
+            128
+        ],
+        "true_location": [
+            10418,
+            12634,
+            143,
+            173
+        ],
+        "detection_confidence": 0.9385753870010376,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.95751953125,
+            0.0340576171875
+        ],
+        "iod": 209.3195871076519,
+        "nucleu_area": 817.5,
+        "nucleoplasmic_ratio": 0.22377622377622378,
+        "color_classify_label": 1,
+        "nuclear_clarity": 123.17612917869798,
+        "dyeing": 0.2560484245965161,
+        "circular_degree": 0.8889986638577748
+    },
+    {
+        "patch_name": "15_2",
+        "img_name": "15360_2344_128_128.jpg",
+        "rect": [
+            0,
+            296,
+            128,
+            128
+        ],
+        "true_rect": [
+            0,
+            256,
+            118,
+            209
+        ],
+        "location": [
+            15360,
+            2344,
+            128,
+            128
+        ],
+        "true_location": [
+            15360,
+            2304,
+            118,
+            209
+        ],
+        "detection_confidence": 0.91748046875,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.98681640625,
+            0.01322174072265625
+        ],
+        "iod": 72.32530405571597,
+        "nucleu_area": 773.0,
+        "nucleoplasmic_ratio": 0.288135593220339,
+        "color_classify_label": 1,
+        "nuclear_clarity": 182.59089547564096,
+        "dyeing": 0.09356442956754978,
+        "circular_degree": 0.839037031547791
+    },
+    {
+        "patch_name": "10_14",
+        "img_name": "10278_14406_128_128.jpg",
+        "rect": [
+            38,
+            70,
+            128,
+            128
+        ],
+        "true_rect": [
+            29,
+            70,
+            147,
+            128
+        ],
+        "location": [
+            10278,
+            14406,
+            128,
+            128
+        ],
+        "true_location": [
+            10269,
+            14406,
+            147,
+            128
+        ],
+        "detection_confidence": 0.92431640625,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            1.0,
+            0.0001666545867919922
+        ],
+        "iod": 288.28953806864524,
+        "nucleu_area": 579.0,
+        "nucleoplasmic_ratio": 0.25,
+        "color_classify_label": 1,
+        "nuclear_clarity": 198.16855570602362,
+        "dyeing": 0.49790939217382596,
+        "circular_degree": 0.8517189222030569
+    },
+    {
+        "patch_name": "15_14",
+        "img_name": "16155_15039_128_128.jpg",
+        "rect": [
+            795,
+            703,
+            128,
+            128
+        ],
+        "true_rect": [
+            809,
+            713,
+            101,
+            108
+        ],
+        "location": [
+            16155,
+            15039,
+            128,
+            128
+        ],
+        "true_location": [
+            16169,
+            15049,
+            101,
+            108
+        ],
+        "detection_confidence": 0.8017796277999878,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.6689453125,
+            0.24658203125
+        ],
+        "iod": 194.13720041055612,
+        "nucleu_area": 439.5,
+        "nucleoplasmic_ratio": 0.24752475247524752,
+        "color_classify_label": -3,
+        "nuclear_clarity": 59.33418793230014,
+        "dyeing": 0.4417228678283416,
+        "circular_degree": 0.9035154418202953
+    },
+    {
+        "patch_name": "10_31",
+        "img_name": "11112_32313_128_128.jpg",
+        "rect": [
+            872,
+            569,
+            128,
+            128
+        ],
+        "true_rect": [
+            880,
+            575,
+            112,
+            117
+        ],
+        "location": [
+            11112,
+            32313,
+            128,
+            128
+        ],
+        "true_location": [
+            11120,
+            32319,
+            112,
+            117
+        ],
+        "detection_confidence": 0.646484375,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.9951171875,
+            0.0026454925537109375
+        ],
+        "iod": 90.09897792218662,
+        "nucleu_area": 423.0,
+        "nucleoplasmic_ratio": 0.2222222222222222,
+        "color_classify_label": -3,
+        "nuclear_clarity": 120.61250625572112,
+        "dyeing": 0.21299994780658776,
+        "circular_degree": 0.882773748365295
+    },
+    {
+        "patch_name": "15_24",
+        "img_name": "16247_24638_128_128.jpg",
+        "rect": [
+            887,
+            62,
+            128,
+            128
+        ],
+        "true_rect": [
+            882,
+            68,
+            139,
+            116
+        ],
+        "location": [
+            16247,
+            24638,
+            128,
+            128
+        ],
+        "true_location": [
+            16242,
+            24644,
+            139,
+            116
+        ],
+        "detection_confidence": 0.658203125,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.939453125,
+            0.055999755859375
+        ],
+        "iod": 102.02722590313267,
+        "nucleu_area": 510.0,
+        "nucleoplasmic_ratio": 0.22302158273381295,
+        "color_classify_label": 1,
+        "nuclear_clarity": 94.68759859091914,
+        "dyeing": 0.20005338412378956,
+        "circular_degree": 0.8352026575216287
+    },
+    {
+        "patch_name": "11_4",
+        "img_name": "11986_4992_128_128.jpg",
+        "rect": [
+            722,
+            896,
+            128,
+            128
+        ],
+        "true_rect": [
+            718,
+            915,
+            136,
+            109
+        ],
+        "location": [
+            11986,
+            4992,
+            128,
+            128
+        ],
+        "true_location": [
+            11982,
+            5011,
+            136,
+            109
+        ],
+        "detection_confidence": 0.71630859375,
+        "classes": [
+            2,
+            0
+        ],
+        "classification_confidence": [
+            0.85009765625,
+            0.14599609375
+        ],
+        "iod": 51.60548848051998,
+        "nucleu_area": 252.0,
+        "nucleoplasmic_ratio": 0.1926605504587156,
+        "color_classify_label": -3,
+        "nuclear_clarity": 88.23994818116303,
+        "dyeing": 0.20478368444650785,
+        "circular_degree": 0.8163072182375267
+    },
+    {
+        "patch_name": "11_4",
+        "img_name": "11411_4138_128_128.jpg",
+        "rect": [
+            147,
+            42,
+            128,
+            128
+        ],
+        "true_rect": [
+            172,
+            52,
+            78,
+            109
+        ],
+        "location": [
+            11411,
+            4138,
+            128,
+            128
+        ],
+        "true_location": [
+            11436,
+            4148,
+            78,
+            109
+        ],
+        "detection_confidence": 0.92529296875,
+        "classes": [
+            2,
+            3
+        ],
+        "classification_confidence": [
+            0.88720703125,
+            0.0675048828125
+        ],
+        "iod": 71.1777320430581,
+        "nucleu_area": 748.5,
+        "nucleoplasmic_ratio": 0.358974358974359,
+        "color_classify_label": -3,
+        "nuclear_clarity": 132.9527687619518,
+        "dyeing": 0.09509383038484716,
+        "circular_degree": 0.8529473334440162
+    },
+    {
+        "patch_name": "11_9",
+        "img_name": "11266_10112_128_128.jpg",
+        "rect": [
+            2,
+            896,
+            128,
+            128
+        ],
+        "true_rect": [
+            6,
+            922,
+            120,
+            81
+        ],
+        "location": [
+            11266,
+            10112,
+            128,
+            128
+        ],
+        "true_location": [
+            11270,
+            10138,
+            120,
+            81
+        ],
+        "detection_confidence": 0.89697265625,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.89013671875,
+            0.10406494140625
+        ],
+        "iod": 75.14092926763348,
+        "nucleu_area": 1166.0,
+        "nucleoplasmic_ratio": 0.4444444444444444,
+        "color_classify_label": -3,
+        "nuclear_clarity": 87.22867041567171,
+        "dyeing": 0.06444333556400814,
+        "circular_degree": 0.8486677976354697
+    },
+    {
+        "patch_name": "16_2",
+        "img_name": "16866_2755_128_128.jpg",
+        "rect": [
+            482,
+            707,
+            128,
+            128
+        ],
+        "true_rect": [
+            436,
+            697,
+            221,
+            148
+        ],
+        "location": [
+            16866,
+            2755,
+            128,
+            128
+        ],
+        "true_location": [
+            16820,
+            2745,
+            221,
+            148
+        ],
+        "detection_confidence": 0.9272273182868958,
+        "classes": [
+            2,
+            3
+        ],
+        "classification_confidence": [
+            0.86669921875,
+            0.09222412109375
+        ],
+        "iod": 7.071652548695816,
+        "nucleu_area": 1038.0,
+        "nucleoplasmic_ratio": 0.25675675675675674,
+        "color_classify_label": -3,
+        "nuclear_clarity": 45.77597049030418,
+        "dyeing": 0.00681276738795358,
+        "circular_degree": 0.8751751544491143
+    },
+    {
+        "patch_name": "16_5",
+        "img_name": "16905_5911_128_128.jpg",
+        "rect": [
+            521,
+            791,
+            128,
+            128
+        ],
+        "true_rect": [
+            524,
+            774,
+            123,
+            162
+        ],
+        "location": [
+            16905,
+            5911,
+            128,
+            128
+        ],
+        "true_location": [
+            16908,
+            5894,
+            123,
+            162
+        ],
+        "detection_confidence": 0.6315942406654358,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            1.0,
+            5.4776668548583984e-05
+        ],
+        "iod": 29.518609264575513,
+        "nucleu_area": 416.5,
+        "nucleoplasmic_ratio": 0.21138211382113822,
+        "color_classify_label": -1,
+        "nuclear_clarity": 138.78522758435864,
+        "dyeing": 0.07087301143955706,
+        "circular_degree": 0.8383717701507624
+    },
+    {
+        "patch_name": "16_16",
+        "img_name": "16933_17280_128_128.jpg",
+        "rect": [
+            549,
+            896,
+            128,
+            128
+        ],
+        "true_rect": [
+            567,
+            939,
+            92,
+            84
+        ],
+        "location": [
+            16933,
+            17280,
+            128,
+            128
+        ],
+        "true_location": [
+            16951,
+            17323,
+            92,
+            84
+        ],
+        "detection_confidence": 0.59716796875,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.73779296875,
+            0.1593017578125
+        ],
+        "iod": 5.121436314509497,
+        "nucleu_area": 609.5,
+        "nucleoplasmic_ratio": 0.391304347826087,
+        "color_classify_label": -3,
+        "nuclear_clarity": 124.71599918716699,
+        "dyeing": 0.008402684683362588,
+        "circular_degree": 0.8254626303341052
+    },
+    {
+        "patch_name": "14_2",
+        "img_name": "14381_2458_128_128.jpg",
+        "rect": [
+            45,
+            410,
+            128,
+            128
+        ],
+        "true_rect": [
+            4,
+            428,
+            211,
+            92
+        ],
+        "location": [
+            14381,
+            2458,
+            128,
+            128
+        ],
+        "true_location": [
+            14340,
+            2476,
+            211,
+            92
+        ],
+        "detection_confidence": 0.8450501561164856,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.51025390625,
+            0.475341796875
+        ],
+        "iod": -10.614590137389337,
+        "nucleu_area": 288.0,
+        "nucleoplasmic_ratio": 0.22826086956521738,
+        "color_classify_label": -3,
+        "nuclear_clarity": 306.0469567917844,
+        "dyeing": -0.03685621575482409,
+        "circular_degree": 0.8359184383349043
+    },
+    {
+        "patch_name": "11_32",
+        "img_name": "11309_33595_128_128.jpg",
+        "rect": [
+            45,
+            827,
+            128,
+            128
+        ],
+        "true_rect": [
+            38,
+            831,
+            142,
+            120
+        ],
+        "location": [
+            11309,
+            33595,
+            128,
+            128
+        ],
+        "true_location": [
+            11302,
+            33599,
+            142,
+            120
+        ],
+        "detection_confidence": 0.7101253867149353,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.8212890625,
+            0.1708984375
+        ],
+        "iod": 131.0067472231301,
+        "nucleu_area": 300.0,
+        "nucleoplasmic_ratio": 0.16666666666666666,
+        "color_classify_label": 0,
+        "nuclear_clarity": 179.43819427568934,
+        "dyeing": 0.4366891574104337,
+        "circular_degree": 0.8669986446014246
+    },
+    {
+        "patch_name": "14_6",
+        "img_name": "14601_6701_128_128.jpg",
+        "rect": [
+            265,
+            557,
+            128,
+            128
+        ],
+        "true_rect": [
+            203,
+            520,
+            253,
+            203
+        ],
+        "location": [
+            14601,
+            6701,
+            128,
+            128
+        ],
+        "true_location": [
+            14539,
+            6664,
+            253,
+            203
+        ],
+        "detection_confidence": 0.9210755228996277,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.99951171875,
+            0.0003230571746826172
+        ],
+        "iod": 41.19020443166406,
+        "nucleu_area": 727.0,
+        "nucleoplasmic_ratio": 0.14285714285714285,
+        "color_classify_label": 1,
+        "nuclear_clarity": 117.42085402772958,
+        "dyeing": 0.056657777760198154,
+        "circular_degree": 0.8433007697335331
+    },
+    {
+        "patch_name": "19_8",
+        "img_name": "20084_9088_128_128.jpg",
+        "rect": [
+            628,
+            896,
+            128,
+            128
+        ],
+        "true_rect": [
+            615,
+            940,
+            154,
+            84
+        ],
+        "location": [
+            20084,
+            9088,
+            128,
+            128
+        ],
+        "true_location": [
+            20071,
+            9132,
+            154,
+            84
+        ],
+        "detection_confidence": 0.650133490562439,
+        "classes": [
+            0,
+            4
+        ],
+        "classification_confidence": [
+            0.9990234375,
+            0.0006518363952636719
+        ],
+        "iod": 0,
+        "nucleu_area": 0,
+        "nucleoplasmic_ratio": 0,
+        "color_classify_label": 0,
+        "nuclear_clarity": 0,
+        "dyeing": 0,
+        "circular_degree": 0
+    },
+    {
+        "patch_name": "12_6",
+        "img_name": "13184_6981_128_128.jpg",
+        "rect": [
+            896,
+            837,
+            128,
+            128
+        ],
+        "true_rect": [
+            958,
+            820,
+            66,
+            162
+        ],
+        "location": [
+            13184,
+            6981,
+            128,
+            128
+        ],
+        "true_location": [
+            13246,
+            6964,
+            66,
+            162
+        ],
+        "detection_confidence": 0.88232421875,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.93359375,
+            0.06634521484375
+        ],
+        "iod": 0.0,
+        "nucleu_area": 365.5,
+        "nucleoplasmic_ratio": 0.30303030303030304,
+        "color_classify_label": -3,
+        "nuclear_clarity": 133.92074493497418,
+        "dyeing": 0.0,
+        "circular_degree": 0.8269342838177065
+    },
+    {
+        "patch_name": "12_6",
+        "img_name": "12389_6798_128_128.jpg",
+        "rect": [
+            101,
+            654,
+            128,
+            128
+        ],
+        "true_rect": [
+            125,
+            659,
+            81,
+            118
+        ],
+        "location": [
+            12389,
+            6798,
+            128,
+            128
+        ],
+        "true_location": [
+            12413,
+            6803,
+            81,
+            118
+        ],
+        "detection_confidence": 0.90185546875,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.98193359375,
+            0.0179443359375
+        ],
+        "iod": 29.64365271952456,
+        "nucleu_area": 384.0,
+        "nucleoplasmic_ratio": 0.2839506172839506,
+        "color_classify_label": -3,
+        "nuclear_clarity": 184.4857027114467,
+        "dyeing": 0.07719701229042854,
+        "circular_degree": 0.8744749255496396
+    },
+    {
+        "patch_name": "12_10",
+        "img_name": "12427_10240_128_128.jpg",
+        "rect": [
+            139,
+            0,
+            128,
+            128
+        ],
+        "true_rect": [
+            130,
+            0,
+            146,
+            89
+        ],
+        "location": [
+            12427,
+            10240,
+            128,
+            128
+        ],
+        "true_location": [
+            12418,
+            10240,
+            146,
+            89
+        ],
+        "detection_confidence": 0.8857421875,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.998046875,
+            0.001468658447265625
+        ],
+        "iod": 227.32071322841296,
+        "nucleu_area": 486.0,
+        "nucleoplasmic_ratio": 0.2808988764044944,
+        "color_classify_label": -3,
+        "nuclear_clarity": 178.424421150416,
+        "dyeing": 0.4677380930625781,
+        "circular_degree": 0.8738855878569345
+    },
+    {
+        "patch_name": "12_10",
+        "img_name": "13184_10704_128_128.jpg",
+        "rect": [
+            896,
+            464,
+            128,
+            128
+        ],
+        "true_rect": [
+            930,
+            470,
+            93,
+            116
+        ],
+        "location": [
+            13184,
+            10704,
+            128,
+            128
+        ],
+        "true_location": [
+            13218,
+            10710,
+            93,
+            116
+        ],
+        "detection_confidence": 0.90673828125,
+        "classes": [
+            2,
+            3
+        ],
+        "classification_confidence": [
+            0.998046875,
+            0.000972747802734375
+        ],
+        "iod": 294.63117706566493,
+        "nucleu_area": 901.0,
+        "nucleoplasmic_ratio": 0.34408602150537637,
+        "color_classify_label": -3,
+        "nuclear_clarity": 89.98922039161324,
+        "dyeing": 0.32700463603292446,
+        "circular_degree": 0.8752000505334493
+    },
+    {
+        "patch_name": "12_11",
+        "img_name": "12387_11630_128_128.jpg",
+        "rect": [
+            99,
+            366,
+            128,
+            128
+        ],
+        "true_rect": [
+            85,
+            394,
+            156,
+            73
+        ],
+        "location": [
+            12387,
+            11630,
+            128,
+            128
+        ],
+        "true_location": [
+            12373,
+            11658,
+            156,
+            73
+        ],
+        "detection_confidence": 0.8682686686515808,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.50537109375,
+            0.43896484375
+        ],
+        "iod": -13.125441933861783,
+        "nucleu_area": 350.0,
+        "nucleoplasmic_ratio": 0.273972602739726,
+        "color_classify_label": -3,
+        "nuclear_clarity": 213.99443380186,
+        "dyeing": -0.03750126266817652,
+        "circular_degree": 0.804462494608435
+    },
+    {
+        "patch_name": "14_25",
+        "img_name": "14672_25983_128_128.jpg",
+        "rect": [
+            336,
+            383,
+            128,
+            128
+        ],
+        "true_rect": [
+            353,
+            398,
+            95,
+            99
+        ],
+        "location": [
+            14672,
+            25983,
+            128,
+            128
+        ],
+        "true_location": [
+            14689,
+            25998,
+            95,
+            99
+        ],
+        "detection_confidence": 0.9089369177818298,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.9775390625,
+            0.01194000244140625
+        ],
+        "iod": 28.35930825198828,
+        "nucleu_area": 432.5,
+        "nucleoplasmic_ratio": 0.2631578947368421,
+        "color_classify_label": -3,
+        "nuclear_clarity": 128.0767391421702,
+        "dyeing": 0.06557065491789198,
+        "circular_degree": 0.8630653412389766
+    },
+    {
+        "patch_name": "12_12",
+        "img_name": "12288_12522_128_128.jpg",
+        "rect": [
+            0,
+            234,
+            128,
+            128
+        ],
+        "true_rect": [
+            0,
+            255,
+            71,
+            86
+        ],
+        "location": [
+            12288,
+            12522,
+            128,
+            128
+        ],
+        "true_location": [
+            12288,
+            12543,
+            71,
+            86
+        ],
+        "detection_confidence": 0.9072265625,
+        "classes": [
+            4,
+            2
+        ],
+        "classification_confidence": [
+            0.888671875,
+            0.0634765625
+        ],
+        "iod": 75.7382707145229,
+        "nucleu_area": 629.0,
+        "nucleoplasmic_ratio": 0.4647887323943662,
+        "color_classify_label": -3,
+        "nuclear_clarity": 91.55349672437231,
+        "dyeing": 0.12041060526951176,
+        "circular_degree": 0.8864894833712168
+    },
+    {
+        "patch_name": "19_18",
+        "img_name": "19677_18586_128_128.jpg",
+        "rect": [
+            221,
+            154,
+            128,
+            128
+        ],
+        "true_rect": [
+            209,
+            149,
+            153,
+            138
+        ],
+        "location": [
+            19677,
+            18586,
+            128,
+            128
+        ],
+        "true_location": [
+            19665,
+            18581,
+            153,
+            138
+        ],
+        "detection_confidence": 0.6375939846038818,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            0.99853515625,
+            0.0012683868408203125
+        ],
+        "iod": 150.77185202249865,
+        "nucleu_area": 472.5,
+        "nucleoplasmic_ratio": 0.21014492753623187,
+        "color_classify_label": 1,
+        "nuclear_clarity": 91.4776883271028,
+        "dyeing": 0.31909386671428286,
+        "circular_degree": 0.8215788333878842
+    },
+    {
+        "patch_name": "12_14",
+        "img_name": "12405_15040_128_128.jpg",
+        "rect": [
+            117,
+            704,
+            128,
+            128
+        ],
+        "true_rect": [
+            82,
+            673,
+            199,
+            190
+        ],
+        "location": [
+            12405,
+            15040,
+            128,
+            128
+        ],
+        "true_location": [
+            12370,
+            15009,
+            199,
+            190
+        ],
+        "detection_confidence": 0.9364031553268433,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.798828125,
+            0.1942138671875
+        ],
+        "iod": 61.20159198898527,
+        "nucleu_area": 593.0,
+        "nucleoplasmic_ratio": 0.18090452261306533,
+        "color_classify_label": -3,
+        "nuclear_clarity": 108.69175435005734,
+        "dyeing": 0.10320673185326353,
+        "circular_degree": 0.8272278840077819
+    },
+    {
+        "patch_name": "12_18",
+        "img_name": "13184_18532_128_128.jpg",
+        "rect": [
+            896,
+            100,
+            128,
+            128
+        ],
+        "true_rect": [
+            960,
+            83,
+            64,
+            163
+        ],
+        "location": [
+            13184,
+            18532,
+            128,
+            128
+        ],
+        "true_location": [
+            13248,
+            18515,
+            64,
+            163
+        ],
+        "detection_confidence": 0.68994140625,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.9951171875,
+            0.004161834716796875
+        ],
+        "iod": 0.0,
+        "nucleu_area": 140.0,
+        "nucleoplasmic_ratio": 0.1875,
+        "color_classify_label": -3,
+        "nuclear_clarity": 165.15780241423278,
+        "dyeing": 0.0,
+        "circular_degree": 0.8387375896596727
+    },
+    {
+        "patch_name": "19_24",
+        "img_name": "19954_25373_128_128.jpg",
+        "rect": [
+            498,
+            797,
+            128,
+            128
+        ],
+        "true_rect": [
+            510,
+            807,
+            104,
+            108
+        ],
+        "location": [
+            19954,
+            25373,
+            128,
+            128
+        ],
+        "true_location": [
+            19966,
+            25383,
+            104,
+            108
+        ],
+        "detection_confidence": 0.8916015625,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.73876953125,
+            0.218017578125
+        ],
+        "iod": 233.06196075942657,
+        "nucleu_area": 601.0,
+        "nucleoplasmic_ratio": 0.28703703703703703,
+        "color_classify_label": -3,
+        "nuclear_clarity": 295.8757190279376,
+        "dyeing": 0.38779028412550176,
+        "circular_degree": 0.8840812946514347
+    },
+    {
+        "patch_name": "17_16",
+        "img_name": "18230_16698_128_128.jpg",
+        "rect": [
+            822,
+            314,
+            128,
+            128
+        ],
+        "true_rect": [
+            818,
+            311,
+            137,
+            134
+        ],
+        "location": [
+            18230,
+            16698,
+            128,
+            128
+        ],
+        "true_location": [
+            18226,
+            16695,
+            137,
+            134
+        ],
+        "detection_confidence": 0.9268313050270081,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            1.0,
+            1.0728836059570312e-05
+        ],
+        "iod": 226.68020953439125,
+        "nucleu_area": 637.5,
+        "nucleoplasmic_ratio": 0.2773722627737226,
+        "color_classify_label": -3,
+        "nuclear_clarity": 133.44928137037365,
+        "dyeing": 0.3555767992696333,
+        "circular_degree": 0.7651012335079158
+    },
+    {
+        "patch_name": "22_19",
+        "img_name": "23362_19688_128_128.jpg",
+        "rect": [
+            834,
+            232,
+            128,
+            128
+        ],
+        "true_rect": [
+            824,
+            218,
+            148,
+            157
+        ],
+        "location": [
+            23362,
+            19688,
+            128,
+            128
+        ],
+        "true_location": [
+            23352,
+            19674,
+            148,
+            157
+        ],
+        "detection_confidence": 0.560546875,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            1.0,
+            2.1457672119140625e-05
+        ],
+        "iod": 46.264762374199165,
+        "nucleu_area": 384.0,
+        "nucleoplasmic_ratio": 0.16891891891891891,
+        "color_classify_label": 1,
+        "nuclear_clarity": 91.55463905342033,
+        "dyeing": 0.12048115201614366,
+        "circular_degree": 0.8552919147288134
+    },
+    {
+        "patch_name": "25_34",
+        "img_name": "26105_35712_128_128.jpg",
+        "rect": [
+            505,
+            896,
+            128,
+            128
+        ],
+        "true_rect": [
+            521,
+            964,
+            97,
+            60
+        ],
+        "location": [
+            26105,
+            35712,
+            128,
+            128
+        ],
+        "true_location": [
+            26121,
+            35780,
+            97,
+            60
+        ],
+        "detection_confidence": 0.7123316526412964,
+        "classes": [
+            3,
+            4
+        ],
+        "classification_confidence": [
+            0.4404296875,
+            0.375244140625
+        ],
+        "iod": 0.0,
+        "nucleu_area": 254.0,
+        "nucleoplasmic_ratio": 0.31666666666666665,
+        "color_classify_label": -3,
+        "nuclear_clarity": 328.1493041827565,
+        "dyeing": 0.0,
+        "circular_degree": 0.8451177246423403
+    },
+    {
+        "patch_name": "25_34",
+        "img_name": "26273_35666_128_128.jpg",
+        "rect": [
+            673,
+            850,
+            128,
+            128
+        ],
+        "true_rect": [
+            686,
+            868,
+            102,
+            92
+        ],
+        "location": [
+            26273,
+            35666,
+            128,
+            128
+        ],
+        "true_location": [
+            26286,
+            35684,
+            102,
+            92
+        ],
+        "detection_confidence": 0.8133116960525513,
+        "classes": [
+            2,
+            4
+        ],
+        "classification_confidence": [
+            0.58251953125,
+            0.321533203125
+        ],
+        "iod": 98.33524682812886,
+        "nucleu_area": 466.5,
+        "nucleoplasmic_ratio": 0.32608695652173914,
+        "color_classify_label": -3,
+        "nuclear_clarity": 246.45776380903374,
+        "dyeing": 0.21079366951367387,
+        "circular_degree": 0.8046372510789994
+    },
+    {
+        "patch_name": "20_33",
+        "img_name": "21168_34604_128_128.jpg",
+        "rect": [
+            688,
+            812,
+            128,
+            128
+        ],
+        "true_rect": [
+            671,
+            808,
+            162,
+            137
+        ],
+        "location": [
+            21168,
+            34604,
+            128,
+            128
+        ],
+        "true_location": [
+            21151,
+            34600,
+            162,
+            137
+        ],
+        "detection_confidence": 0.8974609375,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.77978515625,
+            0.219970703125
+        ],
+        "iod": 39.784283263028186,
+        "nucleu_area": 445.0,
+        "nucleoplasmic_ratio": 0.1897810218978102,
+        "color_classify_label": -1,
+        "nuclear_clarity": 162.28007154041026,
+        "dyeing": 0.08940288373714199,
+        "circular_degree": 0.8571849272170666
+    },
+    {
+        "patch_name": "20_33",
+        "img_name": "20654_34486_128_128.jpg",
+        "rect": [
+            174,
+            694,
+            128,
+            128
+        ],
+        "true_rect": [
+            143,
+            681,
+            191,
+            155
+        ],
+        "location": [
+            20654,
+            34486,
+            128,
+            128
+        ],
+        "true_location": [
+            20623,
+            34473,
+            191,
+            155
+        ],
+        "detection_confidence": 0.9139818549156189,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.99951171875,
+            0.0002601146697998047
+        ],
+        "iod": 23.976416167091955,
+        "nucleu_area": 392.5,
+        "nucleoplasmic_ratio": 0.15483870967741936,
+        "color_classify_label": -1,
+        "nuclear_clarity": 109.50963086368195,
+        "dyeing": 0.06108641061679479,
+        "circular_degree": 0.8498155203140503
+    },
+    {
+        "patch_name": "26_3",
+        "img_name": "26844_3151_128_128.jpg",
+        "rect": [
+            220,
+            79,
+            128,
+            128
+        ],
+        "true_rect": [
+            206,
+            61,
+            157,
+            165
+        ],
+        "location": [
+            26844,
+            3151,
+            128,
+            128
+        ],
+        "true_location": [
+            26830,
+            3133,
+            157,
+            165
+        ],
+        "detection_confidence": 0.6001874804496765,
+        "classes": [
+            0,
+            1
+        ],
+        "classification_confidence": [
+            0.9990234375,
+            0.0004830360412597656
+        ],
+        "iod": 51.338734536841585,
+        "nucleu_area": 537.0,
+        "nucleoplasmic_ratio": 0.18787878787878787,
+        "color_classify_label": -1,
+        "nuclear_clarity": 174.69881185471198,
+        "dyeing": 0.09560285761050574,
+        "circular_degree": 0.8252653422432146
+    },
+    {
+        "patch_name": "23_27",
+        "img_name": "23787_27923_128_128.jpg",
+        "rect": [
+            235,
+            275,
+            128,
+            128
+        ],
+        "true_rect": [
+            202,
+            255,
+            194,
+            168
+        ],
+        "location": [
+            23787,
+            27923,
+            128,
+            128
+        ],
+        "true_location": [
+            23754,
+            27903,
+            194,
+            168
+        ],
+        "detection_confidence": 0.604864776134491,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.99951171875,
+            0.0002541542053222656
+        ],
+        "iod": 39.65263482532234,
+        "nucleu_area": 422.5,
+        "nucleoplasmic_ratio": 0.14948453608247422,
+        "color_classify_label": -3,
+        "nuclear_clarity": 125.59444665618886,
+        "dyeing": 0.09385239011910612,
+        "circular_degree": 0.8187559957456921
+    },
+    {
+        "patch_name": "21_19",
+        "img_name": "22303_19753_128_128.jpg",
+        "rect": [
+            799,
+            297,
+            128,
+            128
+        ],
+        "true_rect": [
+            816,
+            294,
+            94,
+            134
+        ],
+        "location": [
+            22303,
+            19753,
+            128,
+            128
+        ],
+        "true_location": [
+            22320,
+            19750,
+            94,
+            134
+        ],
+        "detection_confidence": 0.9267578125,
+        "classes": [
+            0,
+            2
+        ],
+        "classification_confidence": [
+            0.9990234375,
+            0.0009636878967285156
+        ],
+        "iod": 32.45360597421492,
+        "nucleu_area": 542.0,
+        "nucleoplasmic_ratio": 0.2872340425531915,
+        "color_classify_label": -3,
+        "nuclear_clarity": 168.6844065080972,
+        "dyeing": 0.059877501797444506,
+        "circular_degree": 0.8178947140399274
+    },
+    {
+        "patch_name": "21_22",
+        "img_name": "21863_23191_128_128.jpg",
+        "rect": [
+            359,
+            663,
+            128,
+            128
+        ],
+        "true_rect": [
+            360,
+            662,
+            127,
+            130
+        ],
+        "location": [
+            21863,
+            23191,
+            128,
+            128
+        ],
+        "true_location": [
+            21864,
+            23190,
+            127,
+            130
+        ],
+        "detection_confidence": 0.611328125,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.99951171875,
+            0.00022554397583007812
+        ],
+        "iod": 198.49230882614881,
+        "nucleu_area": 392.0,
+        "nucleoplasmic_ratio": 0.19230769230769232,
+        "color_classify_label": 1,
+        "nuclear_clarity": 133.18333233056998,
+        "dyeing": 0.5063579306789511,
+        "circular_degree": 0.8619370786004062
+    },
+    {
+        "patch_name": "21_28",
+        "img_name": "21594_28799_128_128.jpg",
+        "rect": [
+            90,
+            127,
+            128,
+            128
+        ],
+        "true_rect": [
+            76,
+            121,
+            156,
+            141
+        ],
+        "location": [
+            21594,
+            28799,
+            128,
+            128
+        ],
+        "true_location": [
+            21580,
+            28793,
+            156,
+            141
+        ],
+        "detection_confidence": 0.920219898223877,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.8798828125,
+            0.1199951171875
+        ],
+        "iod": 64.15093517916792,
+        "nucleu_area": 543.5,
+        "nucleoplasmic_ratio": 0.1858974358974359,
+        "color_classify_label": -1,
+        "nuclear_clarity": 50.128550102812596,
+        "dyeing": 0.11803299940969258,
+        "circular_degree": 0.88515358569078
+    },
+    {
+        "patch_name": "21_33",
+        "img_name": "22141_34362_128_128.jpg",
+        "rect": [
+            637,
+            570,
+            128,
+            128
+        ],
+        "true_rect": [
+            644,
+            587,
+            115,
+            95
+        ],
+        "location": [
+            22141,
+            34362,
+            128,
+            128
+        ],
+        "true_location": [
+            22148,
+            34379,
+            115,
+            95
+        ],
+        "detection_confidence": 0.6376953125,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.939453125,
+            0.03271484375
+        ],
+        "iod": 41.35578244111515,
+        "nucleu_area": 376.0,
+        "nucleoplasmic_ratio": 0.23478260869565218,
+        "color_classify_label": -3,
+        "nuclear_clarity": 236.81209045656627,
+        "dyeing": 0.10998878308807221,
+        "circular_degree": 0.845177940922046
+    },
+    {
+        "patch_name": "24_25",
+        "img_name": "24720_25631_128_128.jpg",
+        "rect": [
+            144,
+            31,
+            128,
+            128
+        ],
+        "true_rect": [
+            147,
+            11,
+            123,
+            169
+        ],
+        "location": [
+            24720,
+            25631,
+            128,
+            128
+        ],
+        "true_location": [
+            24723,
+            25611,
+            123,
+            169
+        ],
+        "detection_confidence": 0.916015625,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            1.0,
+            5.8531761169433594e-05
+        ],
+        "iod": 60.29773367197214,
+        "nucleu_area": 509.5,
+        "nucleoplasmic_ratio": 0.21951219512195122,
+        "color_classify_label": 1,
+        "nuclear_clarity": 94.65605198789355,
+        "dyeing": 0.11834687668689331,
+        "circular_degree": 0.8206876592697685
+    },
+    {
+        "patch_name": "24_28",
+        "img_name": "24911_29289_128_128.jpg",
+        "rect": [
+            335,
+            617,
+            128,
+            128
+        ],
+        "true_rect": [
+            334,
+            611,
+            131,
+            140
+        ],
+        "location": [
+            24911,
+            29289,
+            128,
+            128
+        ],
+        "true_location": [
+            24910,
+            29283,
+            131,
+            140
+        ],
+        "detection_confidence": 0.721741795539856,
+        "classes": [
+            0,
+            3
+        ],
+        "classification_confidence": [
+            0.87646484375,
+            0.12335205078125
+        ],
+        "iod": 120.75223080603236,
+        "nucleu_area": 415.5,
+        "nucleoplasmic_ratio": 0.19083969465648856,
+        "color_classify_label": -1,
+        "nuclear_clarity": 113.70898837718178,
+        "dyeing": 0.2906190873791393,
+        "circular_degree": 0.8648798884412281
+    },
+    {
+        "patch_name": "24_35",
+        "img_name": "24849_36468_128_128.jpg",
+        "rect": [
+            273,
+            628,
+            128,
+            128
+        ],
+        "true_rect": [
+            285,
+            655,
+            104,
+            74
+        ],
+        "location": [
+            24849,
+            36468,
+            128,
+            128
+        ],
+        "true_location": [
+            24861,
+            36495,
+            104,
+            74
+        ],
+        "detection_confidence": 0.9061540365219116,
+        "classes": [
+            2,
+            4
+        ],
+        "classification_confidence": [
+            0.98583984375,
+            0.0112152099609375
+        ],
+        "iod": -1.701540200138373,
+        "nucleu_area": 494.0,
+        "nucleoplasmic_ratio": 0.35135135135135137,
+        "color_classify_label": -3,
+        "nuclear_clarity": 115.22194844785315,
+        "dyeing": -0.003444413360603994,
+        "circular_degree": 0.8882705358051968
+    },
+    {
+        "patch_name": "33_10",
+        "img_name": "34034_10262_128_128.jpg",
+        "rect": [
+            242,
+            22,
+            128,
+            128
+        ],
+        "true_rect": [
+            238,
+            26,
+            137,
+            120
+        ],
+        "location": [
+            34034,
+            10262,
+            128,
+            128
+        ],
+        "true_location": [
+            34030,
+            10266,
+            137,
+            120
+        ],
+        "detection_confidence": 0.935546875,
+        "classes": [
+            3,
+            2
+        ],
+        "classification_confidence": [
+            1.0,
+            0.00015115737915039062
+        ],
+        "iod": 401.2906492092494,
+        "nucleu_area": 1018.0,
+        "nucleoplasmic_ratio": 0.30833333333333335,
+        "color_classify_label": -3,
+        "nuclear_clarity": 179.731370696213,
+        "dyeing": 0.3941951367477892,
+        "circular_degree": 0.8680444344484319
+    },
+    {
+        "patch_name": "33_12",
+        "img_name": "34688_12686_128_128.jpg",
+        "rect": [
+            896,
+            398,
+            128,
+            128
+        ],
+        "true_rect": [
+            931,
+            418,
+            93,
+            89
+        ],
+        "location": [
+            34688,
+            12686,
+            128,
+            128
+        ],
+        "true_location": [
+            34723,
+            12706,
+            93,
+            89
+        ],
+        "detection_confidence": 0.8056640625,
+        "classes": [
+            3,
+            0
+        ],
+        "classification_confidence": [
+            0.876953125,
+            0.1224365234375
+        ],
+        "iod": 15.774339899089208,
+        "nucleu_area": 208.0,
+        "nucleoplasmic_ratio": 0.23655913978494625,
+        "color_classify_label": -3,
+        "nuclear_clarity": 234.3733936736733,
+        "dyeing": 0.07583817259177504,
+        "circular_degree": 0.8250858014895532
+    },
+    {
+        "patch_name": "33_22",
+        "img_name": "34006_23184_128_128.jpg",
+        "rect": [
+            214,
+            656,
+            128,
+            128
+        ],
+        "true_rect": [
+            217,
+            662,
+            123,
+            116
+        ],
+        "location": [
+            34006,
+            23184,
+            128,
+            128
+        ],
+        "true_location": [
+            34009,
+            23190,
+            123,
+            116
+        ],
+        "detection_confidence": 0.55712890625,
+        "classes": [
+            2,
+            5
+        ],
+        "classification_confidence": [
+            0.513671875,
+            0.25927734375
+        ],
+        "iod": 2609.0038528375726,
+        "nucleu_area": 5058.5,
+        "nucleoplasmic_ratio": 0.7758620689655172,
+        "color_classify_label": -3,
+        "nuclear_clarity": 44.0195220184888,
+        "dyeing": 0.5157663048013389,
+        "circular_degree": 0.7938294128424056
+    },
+    {
+        "patch_name": "35_33",
+        "img_name": "36552_34062_128_128.jpg",
+        "rect": [
+            712,
+            270,
+            128,
+            128
+        ],
+        "true_rect": [
+            737,
+            301,
+            78,
+            66
+        ],
+        "location": [
+            36552,
+            34062,
+            128,
+            128
+        ],
+        "true_location": [
+            36577,
+            34093,
+            78,
+            66
+        ],
+        "detection_confidence": 0.66552734375,
+        "classes": [
+            4,
+            5
+        ],
+        "classification_confidence": [
+            0.9912109375,
+            0.0062103271484375
+        ],
+        "iod": -53.63798495920437,
+        "nucleu_area": 1913.5,
+        "nucleoplasmic_ratio": 0.7575757575757576,
+        "color_classify_label": -3,
+        "nuclear_clarity": 237.4832075461446,
+        "dyeing": -0.02803134829328684,
+        "circular_degree": 0.816772830934668
+    },
+    {
+        "patch_name": "34_17",
+        "img_name": "35052_17714_128_128.jpg",
+        "rect": [
+            236,
+            306,
+            128,
+            128
+        ],
+        "true_rect": [
+            229,
+            282,
+            143,
+            176
+        ],
+        "location": [
+            35052,
+            17714,
+            128,
+            128
+        ],
+        "true_location": [
+            35045,
+            17690,
+            143,
+            176
+        ],
+        "detection_confidence": 0.9404296875,
+        "classes": [
+            2,
+            3
+        ],
+        "classification_confidence": [
+            0.5908203125,
+            0.404541015625
+        ],
+        "iod": 91.18114172480927,
+        "nucleu_area": 639.0,
+        "nucleoplasmic_ratio": 0.1888111888111888,
+        "color_classify_label": 1,
+        "nuclear_clarity": 54.8209231279849,
+        "dyeing": 0.14269349252708804,
+        "circular_degree": 0.8786447179222254
+    },
+    {
+        "patch_name": "34_29",
+        "img_name": "35712_30549_128_128.jpg",
+        "rect": [
+            896,
+            853,
+            128,
+            128
+        ],
+        "true_rect": [
+            960,
+            882,
+            64,
+            71
+        ],
+        "location": [
+            35712,
+            30549,
+            128,
+            128
+        ],
+        "true_location": [
+            35776,
+            30578,
+            64,
+            71
+        ],
+        "detection_confidence": 0.57568359375,
+        "classes": [
+            4,
+            0
+        ],
+        "classification_confidence": [
+            0.5400390625,
+            0.4599609375
+        ],
+        "iod": 0.0,
+        "nucleu_area": 188.0,
+        "nucleoplasmic_ratio": 0.265625,
+        "color_classify_label": -3,
+        "nuclear_clarity": 171.47127306090061,
+        "dyeing": 0.0,
+        "circular_degree": 0.8529893634093472
+    }
+]

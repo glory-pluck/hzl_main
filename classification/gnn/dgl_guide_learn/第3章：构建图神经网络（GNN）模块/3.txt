@@ -1,0 +1,11 @@
+DGL NN模块是用户构建GNN模型的基本模块。
+根据DGL所使用的后端深度神经网络框架， DGL NN模块的父类取决于后端所使用的深度神经网络框架。
+对于PyTorch后端， 它应该继承 PyTorch的NN模块；对于MXNet后端，它应该继承 MXNet Gluon的NN块； 
+对于TensorFlow后端，它应该继承 Tensorflow的Keras层。 
+在DGL NN模块中，构造函数中的参数注册和前向传播函数中使用的张量操作与后端框架一样。
+这种方式使得DGL的代码可以无缝嵌入到后端框架的代码中。 DGL和这些深度神经网络框架的主要差异是其独有的消息传递操作。
+
+DGL已经集成了很多常用的 apinn-pytorch-conv、 apinn-pytorch-dense-conv、 apinn-pytorch-pooling 和 apinn-pytorch-util。
+欢迎给DGL贡献更多的模块！
+
+本章将使用PyTorch作为后端，用 SAGEConv 作为例子来介绍如何构建用户自己的DGL NN模块。

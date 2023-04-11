@@ -1,0 +1,3 @@
+DGL在 dgl.data 里实现了很多常用的图数据集。
+它们遵循了由 dgl.data.DGLDataset 类定义的标准的数据处理管道。
+ DGL推荐用户将图数据处理为 dgl.data.DGLDataset 的子类。该类为导入、处理和保存图数据提供了简单而干净的解决方案。

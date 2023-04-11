@@ -17,13 +17,13 @@ def get_model(model_name,pretrained= False,checkpoint_path="",num_classes=1000):
     return model
 
 
-if __name__ =="__main__":
-    model = get_model(model_name  ="swin_large_patch4_window7_224",
-            checkpoint_path = "/home/hongzhenlong/hzl_main/classification/cnn/swin/swin_large_patch4_window7_224_22kto1k.pth",
-            num_classes = 5)
-    model.eval()
-    output = model(torch.ones((2, 3, 224, 224)))
-    print(output)
+# if __name__ =="__main__":
+#     model = get_model(model_name  ="swin_large_patch4_window7_224",
+#             checkpoint_path = "/home/hongzhenlong/hzl_main/classification/cnn/swin/swin_large_patch4_window7_224_22kto1k.pth",
+#             num_classes = 5)
+#     model.eval()
+#     output = model(torch.ones((2, 3, 224, 224)))
+#     print(output)
 
 
         
