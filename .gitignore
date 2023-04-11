@@ -8,3 +8,7 @@
 *.png
 *.zip
 *.npy
+*.mp4
+*.avi
+*.txt
+*.cache
