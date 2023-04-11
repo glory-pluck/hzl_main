@@ -14,11 +14,11 @@
 *.cache
 
 # dir 不需要提交的目录
-/home/hongzhenlong/my_main/key_point/mmskeleton
-/home/hongzhenlong/my_main/key_point/movenet_pytorch
-/home/hongzhenlong/my_main/key_point/movenet_pytorch
-/home/hongzhenlong/my_main/key_point/openpose
-/home/hongzhenlong/my_main/key_point/pyskl
+/key_point/mmskeleton
+/key_point/movenet_pytorch
+/key_point/movenet_pytorch
+/key_point/openpose
+/key_point/pyskl
 
 # Package Files 不需要提交的任意包含后缀名为jar的文件
 *.jar
